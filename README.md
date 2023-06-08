@@ -25,3 +25,4 @@ Here are the paraphrased goals of this specific project and what it accomplishes
 1. There are massive line breaks between street name and city in addresses[80:84] 
 2. There are \r text chars in some addresses, need to replace
 3. If 404/403 returned modify url to 'contact-us'
+4. URLError: <urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>
