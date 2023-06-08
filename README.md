@@ -8,9 +8,7 @@ In this project I created a web scraper that can iterate through a list of URL's
 
 
 
-
-
-
+##Details
 The methodology I used to match street addresses has proven very effective and works in almost all of the specific use cases I had. There is almost no full-proof way to build a regex statement that matches the complexity and variety of a street address (you will find no consistent examples online and I have created my own custom statement), however the key was to constrain the string that my regex was searching within. 
 
 Here are the paraphrased goals of this specific project and what it accomplishes.
