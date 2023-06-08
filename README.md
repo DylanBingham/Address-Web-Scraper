@@ -19,3 +19,9 @@ Here are the paraphrased goals of this specific project and what it accomplishes
 4. Next loop through elements of html using regex to find string that matches for City, StateAbrrev ZipCode
 5. Then retrieve the parent of that tag and match for full street address using regex
 6. Once found then append to list with url preceding
+
+
+## Bugs to fix:
+1. There are massive line breaks between street name and city in addresses[80:84] 
+2. There are \r text chars in some addresses, need to replace
+3. If 404/403 returned modify url to 'contact-us'
