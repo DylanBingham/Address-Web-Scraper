@@ -1,6 +1,6 @@
 # Address-Web-Scraper
 
-Note : This project is intended to be a supplement to my coding portfolio for potential employes to review.
+Note : This project is intended to be a supplement to my coding portfolio for potential employers to review.
 
 ## TLDR:
 In this project I created a web scraper that can iterate through a list of URL's (specifically their contact page) and extract a full street address from the html.
